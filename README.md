@@ -1,6 +1,7 @@
 # Gestor de Tareas - CRUD Full Stack
 
-Aplicación fullstack desarrollada con Django REST Framework (backend) y React (frontend) que permite gestionar tareas personales mediante una API REST.
+Este proyecto fue desarrollado como prueba técnica fullstack,
+implementando un CRUD completo con integración entre Django REST Framework y React.
 
 ---
 
@@ -43,7 +44,7 @@ frontend/
 
 ### Clonar el repositorio
 
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/genesishernandez-dev/task-manager-fullstack.git
 cd task-manager-fullstack
 
 ---
@@ -86,6 +87,6 @@ http://localhost:3000/
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Proyecto desarrollado como prueba técnica para demostrar conocimientos en desarrollo fullstack con Django y React.
